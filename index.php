@@ -8,10 +8,5 @@
     echo "dddd";
     ?>
 </p>
-<p>
-    <?php
-    echo "dddd";
-    ?>
-</p>
 </body>
 </html>
